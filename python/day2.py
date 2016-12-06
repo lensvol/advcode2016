@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Day 1 of the Advent of Code challenge, parts A and B
+Day 2 of the Advent of Code challenge, parts A and B
 '''
 
 import sys
